@@ -31,4 +31,4 @@ piedra-papel-tijera/
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/piedra-papel-tijera.git
+   git clone https://github.com/TheLeon12/juego-contra-la-maquina-.git
